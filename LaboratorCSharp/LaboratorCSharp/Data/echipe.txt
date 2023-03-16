@@ -1,0 +1,6 @@
+1;HoustonRockets
+2;LosAngelesLakers
+3;ChicagoBulls
+4;LAClippers
+5;ClevelandCavaliers
+6;CharlotteHornets

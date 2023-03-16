@@ -1,0 +1,5 @@
+1;HoustonRockets;LAClippers;12/11/2022
+2;HoustonRockets;ChicagoBulls;15/10/2022
+3;LosAngelesLakers;ClevelandCavaliers;11/11/2021
+4;LosAngelesLakers;LAClippers;13/11/2022
+5;ChicagoBulls;ClevelandCavaliers;21/12/2022

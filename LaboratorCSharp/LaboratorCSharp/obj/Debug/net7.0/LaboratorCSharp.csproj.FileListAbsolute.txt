@@ -1,0 +1,15 @@
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\bin\Debug\net7.0\LaboratorCSharp.exe
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\bin\Debug\net7.0\LaboratorCSharp.deps.json
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\bin\Debug\net7.0\LaboratorCSharp.runtimeconfig.json
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\bin\Debug\net7.0\LaboratorCSharp.dll
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\bin\Debug\net7.0\LaboratorCSharp.pdb
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\LaboratorCSharp.csproj.AssemblyReference.cache
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\LaboratorCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\LaboratorCSharp.AssemblyInfoInputs.cache
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\LaboratorCSharp.AssemblyInfo.cs
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\LaboratorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\LaboratorCSharp.dll
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\refint\LaboratorCSharp.dll
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\LaboratorCSharp.pdb
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\LaboratorCSharp.genruntimeconfig.cache
+C:\Users\Andrei Baciu\RiderProjects\LaboratorCSharp\LaboratorCSharp\obj\Debug\net7.0\ref\LaboratorCSharp.dll
