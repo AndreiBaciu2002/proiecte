@@ -1,0 +1,1 @@
+Eu am avut de implementat TAD-urile 2, 5. Eu am creat o lista de useri in UserRepo.h pe care faceam add, remove si getElem . Apoi in FriendshipRepo.h am folosit TAD-ul 5, in care cheia era un int(id de user), iar valoarea era o Friendship. Tot TAD-ul 5 l-am folosit pentru a crea mesaje, cheia multimap-ului fiing un int(id user), iar valoarea unei chei este un Message.

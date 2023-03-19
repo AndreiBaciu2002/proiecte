@@ -1,0 +1,3 @@
+C:/Users/Andrei Baciu/Documents/saVedemProiectul (2)/saVedemProiectul/cmake-build-debug/CMakeFiles/saVedemProiectul.dir
+C:/Users/Andrei Baciu/Documents/saVedemProiectul (2)/saVedemProiectul/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei Baciu/Documents/saVedemProiectul (2)/saVedemProiectul/cmake-build-debug/CMakeFiles/rebuild_cache.dir
