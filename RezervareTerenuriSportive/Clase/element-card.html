@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="style-page.css">
+</head>
+
+<body>
+
+    <div id="product-card">
+        <a href="product-details.php?id=<?php echo $row['id']; ?>" id="link-to-details">
+            <img src="<?php echo $row['imagePath']; ?>" alt="Product Image" id="product-image-object">
+            <h4 id="product-name"><?php echo $row['nume']; ?></h4>
+            <p id="product-category"><?php echo $row['categorie']; ?></p>
+            <p id="product-price"><?php echo $row['pret']; ?></p>
+        </a>
+        <!-- Adaugă butoanele de editare și ștergere aici -->
+        <div class="button-container">
+            <button class="edit-button">Edit</button>
+            <button class="delete-button">Delete</button>
+        </div>
+    </div>
+
+</body>
+
+</html>
